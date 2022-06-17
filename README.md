@@ -43,7 +43,7 @@ O sistema conta com um menu dinâmico ao lado esquerdo e um menu fixo superior.
    - Conta com a "Logo" da empresa e seu nome, o nome do funcionário e as abas de opções;
    - É composto por sete opções sendo duas delas destinadas a cargos específicos de 'Financeiro' e 'Administrador'. São eles:
 
-   - Prospecção: Essa aba, tem a importância para os setores de marketing e comercial, onde será colocado os dados de possível cliente pelo marketing e também onde o comercial fará a leitura dos contatos disponibilizados pelo marketing para entrar em contato.
+      - Prospecção: Essa aba, tem a importância para os setores de marketing e comercial, onde será colocado os dados de possível cliente pelo marketing e também onde o comercial fará a leitura dos contatos disponibilizados pelo marketing para entrar em contato.
    - Clientes: Onde armazenará o banco de informações dos clientes, como sua ficha, seus documentos e o andamento de seus processos.
    - Faturamento: Essa aba vai passar a missão ao financeiro para gerar o meio de cobrança ao cliente. E assim o financeiro cumprirá a sua tarefa do dia.
    - Agendamento: Essa aba é responsável pelo agendamento de processos no sistema, enviando uma notificação quando um processo chega perto de seu fechamento.
