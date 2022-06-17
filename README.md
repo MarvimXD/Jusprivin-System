@@ -48,3 +48,21 @@ O sistema conta com um menu dinâmico ao lado esquerdo e um menu fixo superior.
    - Agendamento: Essa aba é responsável pelo agendamento de processos no sistema, enviando uma notificação quando um processo chega perto de seu fechamento.
    - Classificador: Essa aba é muito importante por isso quero ela bem didática para não ter erros na hora da execução do processo.
    - Financeiro: Essa aba é onde os funcionários marcados como 'Financeiro' receberão os boletos de ordem de faturamento gerados na aba "Faturamento".
+   - Administração: Aba dedicada aos 'Administradores' do sistema, onde poderão ter a relação de funcioários e clientes registrados e acesso ao log do sistema.
+
+- Menu Superior:
+   - Início: Leverá à tela inicial.
+   - Suporte: Levará à tela de Suporte, onde o usuário poderá enviar suas dúvidas e/ou problemas recorrentes ao sistema.
+   - Sino de Notificação: Será demonstrado as notificações atuais do sistema.
+   
+     <img src="https://user-images.githubusercontent.com/58988379/174396204-49566da9-3478-41bf-8c13-a4ca9f418f42.png">
+     
+   - Expandir: Opção que permitirá função semelhante a tecla "F11", preenchendo toda a tela com o sistema.
+   
+     <img src="https://user-images.githubusercontent.com/58988379/174396445-ab5e8aca-3d0e-44cd-9a02-88045440b154.png">
+     
+   - Sair: Opção que permitirá função "LOGOUT" do sistema, levando o usuário novamente a tela inicial de Acesso.
+   
+     <img src="https://user-images.githubusercontent.com/58988379/174396569-9d93a232-c06d-4832-9067-e19ac641ac15.png">
+     
+
