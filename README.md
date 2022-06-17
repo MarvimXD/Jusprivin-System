@@ -5,7 +5,7 @@ O objetivo do sistema é de gerir clientes, possívels clientes e funcionários 
 
 Com este sistema a empresa poderá cadastrar, editar, ler e deletar funcionários e/ou clientes. Enviar ordens de faturamento através da geração de boletos em PHP. Cadastrar possíveis clientes para a prospecção da empresa. Segue abaixo o sistema e suas funções.
 
-O layout do sistema foi especificado pela própria empresa.
+<strong>O layout do sistema foi especificado pela própria empresa.</strong>
 
 <br>
 <br>
@@ -72,4 +72,34 @@ O sistema conta com um menu dinâmico ao lado esquerdo e um menu fixo superior.
    
         <img src="https://user-images.githubusercontent.com/58988379/174396569-9d93a232-c06d-4832-9067-e19ac641ac15.png">
      
+
+<br>
+<br>
+
+<h2>Prospecção</h2>
+
+<img src="https://user-images.githubusercontent.com/58988379/174398109-4e69d56d-3e6b-42db-b39f-0970d3b7a3f1.png">
+
+A tela de Prospecção conta com uma lista de prospecções cadastradas e botão " + " que levará a tela de cadastro de novas prospecções.
+
+Ao clicar em algum nome listado, o usuário será redirecionado a página contendo o perfil da prospecção clicada.
+
+<br>
+
+   - Cadastrar Prospecção
+      
+      - Página destinada ao cadastro de novas prospecções no sistema, contando com os campos de Nome, E-mail, Telefone, Celular e Serviço Contratado.
+
+   <img src="https://user-images.githubusercontent.com/58988379/174398388-2558ffe0-a361-438c-9308-675d2a36bd93.png">
+
+<br>
+
+   - Perfil da Prospecção
+      
+      - Página destinada aos funcionários marcados com cargo de "Marketing", onde poderão acessar os dados do cliente, bem como excluí-lo. Poderão também atualizar seu histórico de atendimento, definindo seu 'Status' e sua descrição.
+
+   <img src="https://user-images.githubusercontent.com/58988379/174399155-37a76280-8f22-4f9b-ae7b-c445400f01ef.png">
+   <img src="https://user-images.githubusercontent.com/58988379/174399274-9c004fa0-88fb-45b2-a739-50121f946eda.png">
+
+
 
