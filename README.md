@@ -1,7 +1,7 @@
 # Jusprovin System
 O Jusprovin System é um sistema de gerenciamento de pessoas feito para a empresa Jusprovin (JUSPROVIN ASSESSORIA EMPRESARIAL ONLINE LTDA). 
 
-O objetivo do sistema é de gerir clientes, possívels clientes e funcionários da empresa, visando a fácil utilização e aprendizado do sistema.
+O objetivo do sistema é de gerir clientes, possíveis clientes e funcionários da empresa, visando a fácil utilização e aprendizado do sistema.
 
 Com este sistema a empresa poderá cadastrar, editar, ler e deletar funcionários e/ou clientes. Enviar ordens de faturamento através da geração de boletos em PHP. Cadastrar possíveis clientes para a prospecção da empresa. Segue abaixo o sistema e suas funções.
 
