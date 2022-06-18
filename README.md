@@ -82,7 +82,7 @@ O sistema conta com um menu dinâmico ao lado esquerdo e um menu fixo superior.
 
 A tela de Prospecção conta com uma lista de prospecções cadastradas e botão " + " que levará a tela de cadastro de novas prospecções.
 
-Ao clicar em algum nome listado, o usuário será redirecionado a página contendo o perfil da prospecção clicada.
+Ao clicar em algum nome listado, o usuário será redirecionado a página contendo o perfil da prospecção selecionada.
 
 <br>
 
@@ -100,6 +100,69 @@ Ao clicar em algum nome listado, o usuário será redirecionado a página conten
 
    <img src="https://user-images.githubusercontent.com/58988379/174399155-37a76280-8f22-4f9b-ae7b-c445400f01ef.png">
    <img src="https://user-images.githubusercontent.com/58988379/174399274-9c004fa0-88fb-45b2-a739-50121f946eda.png">
+
+     
+
+<br>
+<br>
+
+<h2>Clientes</h2>
+
+<img src="https://user-images.githubusercontent.com/58988379/174416345-1b5cd6eb-b7ff-4a2e-9889-4d7cfdddf02f.png">
+
+A página de clientes mostra uma lista com todos os clientes previamente cadastrados no sistema, sejam eles Pessoa Jurídica ou Pessoa Física;
+
+Ao clicar em algum nome listado, o usuário será redirecionado a página contendo o perfil do cliente selecionado;
+
+Os usuários têm a opção de cadastrar novos clientes clicando no botão " + " logo no início da página.
+
+
+<br>
+
+   - Cadastrar Cliente
+      
+      - Através dessa página o usuário (funcionário) poderá cadastrar um novo cliente no sistema, inserindo os seus dados conforme a imagem abaixo;
+      - É dada a opção de mudança de formulário entre Pessoa Física e Pessoa Jurídica, alterando algumas informações de cadastro.
+
+   <img src="https://user-images.githubusercontent.com/58988379/174416411-6246f893-c91c-46b5-af98-e244d2744bba.png">
+   <img src="https://user-images.githubusercontent.com/58988379/174416597-8ba04b57-5591-4bd8-96ae-331040145ac4.png">
+
+<br>
+
+   - Perfil do Cliente
+      
+      - Ao clicar em algum nome na listagem de clientes na página de clientes, o usuário será redirecionado ao perfil do cliente selecionado;
+      - Através dessa página os usuários (funcionários) poderão acessar as informações do cliente bem como sua pasta pessoa, contendo seus documentos e processos referentes ao serviço contratado com a empresa.
+
+   <img src="https://user-images.githubusercontent.com/58988379/174416713-fc1fb544-6305-4c91-b5d2-e6a7345a66d5.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
