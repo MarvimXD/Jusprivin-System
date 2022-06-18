@@ -10,6 +10,7 @@ Com este sistema a empresa poderá cadastrar, editar, ler e deletar funcionário
 Confira uma cópia do sistema <a target="_blank" href="http://vbesdev.000webhostapp.com/">Clicando aqui.</a> Utilize as credenciais abaixo.
 
 Usuário: github
+
 Senha: 123
 
 <br>
@@ -305,11 +306,28 @@ Ao selecionar um nome na página de "Faturamento" o usuário será redirecionado
 <br>
 
 
+<br>
+<br>
 
+<h2>Agendamento</h2>
 
+<img src="https://user-images.githubusercontent.com/58988379/174418448-9a266b2f-7362-4946-8815-9708404ba649.png">
 
+Através dessa página será possível a visualização dos agendamentos previamente feitos sobre serviços contratados por clientes da empresa;
 
+Será possível adicionar um agendamento através do botão de " + " no início da página.
 
+<br>
+
+   - Cadastrar Agenda
+      
+      - Aqui o usuário (funcionário) poderá cadastrar uma nova agenda que será notificada ao chegar perto da data cadastrada;
+      - Nessa página apenas usuários marcados como "Jurídico", "Financeiro" e "Triagem" poderão alterar suas respectivas áreas demarcadas após a inserção do agendamento no sistema;
+      - É possível também realizar a pesquisa por algum agendamento específica.
+
+   <img src="https://user-images.githubusercontent.com/58988379/174418511-d4a6114f-9c1e-4777-855a-3853da3ed3d9.png">
+
+<br>
 
 
 
