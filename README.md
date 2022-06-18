@@ -24,7 +24,13 @@ O cadastro no sistema para novos funcionários deverá ser realizado pelos <stro
 <h2>Tela Inicial</h2>
 <img src="https://user-images.githubusercontent.com/58988379/174392906-b3b58db5-bbcc-4d2c-bc50-4ac24000df80.png">
 
-A tela Inicial é a tela após o "Login" no sistema feito por funcionários. Aqui será mostrado um gráfico mediante os cadastros mensais, em comparação ao mês anterior, de <strong>Clientes</strong> e <strong>Prospecções</strong>; As notificações do sistema que são entregues conforme regras de cargos, ou seja, para cada cargo será entregue sua devida notificação; A análise mensal de conversão de clientes, uma área destinada a análise de prospecções convertidas, não convertidas ou em negociação no sistema e, por fim, as prospecções mais recentes no sistema.
+A tela Inicial é a tela após o "Login" no sistema feito por funcionários. Aqui será mostrado um gráfico mediante os cadastros mensais, em comparação ao mês anterior, de <strong>Clientes</strong> e <strong>Prospecções</strong>; 
+
+As notificações do sistema que são entregues conforme regras de cargos, ou seja, para cada cargo será entregue sua devida notificação; 
+
+A análise mensal de conversão de clientes, uma área destinada a análise de prospecções convertidas, não convertidas ou em negociação no sistema;
+
+Por fim, as prospecções mais recentes no sistema.
 
 As áreas de Gráfico e Prospecções Recentes contam com um chaveamento simples que, ao ser clicado, levará à suas respectivas páginas. A área de notificação possui um chaveamento que levará à área de suporte do sistema.
 
