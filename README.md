@@ -132,9 +132,48 @@ Os usuários têm a opção de cadastrar novos clientes clicando no botão " + "
    - Perfil do Cliente
       
       - Ao clicar em algum nome na listagem de clientes na página de clientes, o usuário será redirecionado ao perfil do cliente selecionado;
-      - Através dessa página os usuários (funcionários) poderão acessar as informações do cliente bem como sua pasta pessoa, contendo seus documentos e processos referentes ao serviço contratado com a empresa.
+      - Através dessa página os usuários (funcionários) poderão acessar as informações do cliente bem como sua pasta pessoal, contendo seus documentos e processos referentes ao serviço contratado com a empresa;
+      - Administradores do sistema podem excluir e/ou editar as informações referentes ao cliente selecionado.
+      
+      <br>
+      
+      <img src="https://user-images.githubusercontent.com/58988379/174416713-fc1fb544-6305-4c91-b5d2-e6a7345a66d5.png">
+ 
+     <br>
+     <br>
 
-   <img src="https://user-images.githubusercontent.com/58988379/174416713-fc1fb544-6305-4c91-b5d2-e6a7345a66d5.png">
+      - Abas do Perfil:
+      
+          - As abas do perfil são as divisórias da "pasta geral" do perfil do cliente.
+          
+          <br>
+          
+          <img src="https://user-images.githubusercontent.com/58988379/174416888-126e6edd-7e01-426f-bbab-412949477da0.png">
+         
+     <br>
+     <br>
+
+      - Cliente > Pasta:
+      
+          - Essa aba é responsável por guardar os documentos referentes ao cliente selecionado;
+          - Uma vez guardado, o documento poderá ser baixado por qualquer funcionário do sistema que tenha as permissões certas;
+          - É disponibilizado também a opção de adicionar um documento logo no início da página, através do botão " + ".
+          
+          <br>
+          
+          <img src="https://user-images.githubusercontent.com/58988379/174417010-a8996f96-d0a6-4d2e-ad44-454b59481b5f.png">  
+    
+     <br>
+     <br>
+
+      - Cliente > Pasta > Cadastrar Documento:
+      
+          - Através dessa página é possível a adição de documentos à pasta digital do cliente;
+          - Documentos aceitos: PDF e/ou DOCX.
+          
+          <br>
+          
+          <img src="https://user-images.githubusercontent.com/58988379/174417122-91f035d8-08d5-4f56-949b-a576677626db.png">  
 
 
 
