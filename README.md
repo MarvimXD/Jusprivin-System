@@ -282,7 +282,9 @@ Poderá ter acesso aos documentos de processos inseridos previamente na aba "Res
 
 Através dessa página, o funcionário poderá lançar ordens de faturamento, criando PDF's referentes ao serviço contratado pelo cliente;
 
-A página conta com um sistema de pesquisa, para facilitar a busca por um cliente específico.
+A página conta com um sistema de pesquisa, para facilitar a busca por um cliente específico;
+
+Ao selecionar um nome na página de "Faturamento" o usuário será redirecionado para a página de "Ordem de Faturamento", dando continuação ao processo.
 
 <br>
 
@@ -292,8 +294,10 @@ A página conta com um sistema de pesquisa, para facilitar a busca por um client
       - O usuário (funcionário) deverá inserir os últimos campos indicados, são eles: Serviço Contratado, Forma de Pagamento, Preço, Quantidade de Parcelas e a Descrição.
 
    <img src="https://user-images.githubusercontent.com/58988379/174418110-5c091483-4191-4edc-b21f-c79732703c5a.png">
+   <img src="https://user-images.githubusercontent.com/58988379/174418187-f47a627a-46de-4a51-8224-2e9ff35c5482.png">
 
 <br>
+
 
 
 
