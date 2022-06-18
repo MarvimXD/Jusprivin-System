@@ -7,6 +7,11 @@ Com este sistema a empresa poderá cadastrar, editar, ler e deletar funcionário
 
 <strong>O layout do sistema foi especificado pela própria empresa.</strong>
 
+Confira uma cópia do sistema <a target="_blank" href="http://vbesdev.000webhostapp.com/">Clicando aqui.</a> Utilize as credenciais abaixo.
+
+Usuário: github
+Senha: 123
+
 <br>
 <br>
 
@@ -295,9 +300,9 @@ Ao selecionar um nome na página de "Faturamento" o usuário será redirecionado
 
    <img src="https://user-images.githubusercontent.com/58988379/174418110-5c091483-4191-4edc-b21f-c79732703c5a.png">
    <img src="https://user-images.githubusercontent.com/58988379/174418187-f47a627a-46de-4a51-8224-2e9ff35c5482.png">
+   <img src="https://user-images.githubusercontent.com/58988379/174418330-25ea41e9-b1c0-41ae-a816-52bb85d80d8d.png">
 
 <br>
-
 
 
 
