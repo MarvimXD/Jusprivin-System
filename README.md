@@ -7,7 +7,7 @@ Com este sistema a empresa poderá cadastrar, editar, ler e deletar funcionário
 
 <strong>O layout do sistema foi especificado pela própria empresa.</strong>
 
-Confira uma cópia funcional do sistema <a target="_blank" href="http://vbesdev.000webhostapp.com/">Clicando aqui.</a> Utilize as credenciais abaixo.
+Confira uma cópia funcional do sistema <a href="http://vbesdev.000webhostapp.com/" target="_blank">Clicando aqui (segure CTRL e clique para abrir uma nova guia).</a> Utilize as credenciais abaixo.
 
 Usuário: github
 
