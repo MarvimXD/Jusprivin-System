@@ -60,7 +60,7 @@ O sistema conta com um menu dinâmico ao lado esquerdo e um menu fixo superior.
       - Clientes: Onde armazenará o banco de informações dos clientes, como sua ficha, seus documentos e o andamento de seus processos.
       - Faturamento: Essa aba vai passar a missão ao financeiro para gerar o meio de cobrança ao cliente. E assim o financeiro cumprirá a sua tarefa do dia.
       - Agendamento: Essa aba é responsável pelo agendamento de processos no sistema, enviando uma notificação quando um processo chega perto de seu fechamento.
-      - Classificador: Essa aba é muito importante por isso quero ela bem didática para não ter erros na hora da execução do processo.
+      - Classificador: Essa aba é muito importante por isso quero ela bem didática para não ter erros na hora da execução do processo (não disponível na cópia funcional do sistema).
       - Financeiro: Essa aba é onde os funcionários marcados como 'Financeiro' receberão os boletos de ordem de faturamento gerados na aba "Faturamento".
       - Administração: Aba dedicada aos 'Administradores' do sistema, onde poderão ter a relação de funcionários e clientes registrados e acesso ao log do sistema.
 
