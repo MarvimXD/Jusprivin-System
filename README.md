@@ -181,16 +181,119 @@ Os usuários têm a opção de cadastrar novos clientes clicando no botão " + "
           
           <img src="https://user-images.githubusercontent.com/58988379/174417122-91f035d8-08d5-4f56-949b-a576677626db.png">  
 
+    
+     <br>
+     <br>
+
+      - Cliente > Histórico:
+      
+          - Através dessa página é possível ver os históricos adicionados referentes ao cliente selecionado;
+          - É possível o cadastro de um novo histórico clicando no botão " + " no início da página.
+          
+          <br>
+          
+          <img src="https://user-images.githubusercontent.com/58988379/174417368-7d338273-34ed-45a0-a99d-7f889a0d7894.png">  
+
+    
+     <br>
+     <br>
+
+      - Cliente > Histórico > Inserir Histórico:
+      
+          - Através dessa página é possível inserir novos históricos referentes ao cliente selecionado;
+          - Já é pré-inserido o nome do funcionário que está adicionando o histórico, sendo desabilitada a opção de alteração.
+          
+          <br>
+          
+          <img src="https://user-images.githubusercontent.com/58988379/174417424-e9ca7f19-2dc2-4606-8fc0-0d56deac2777.png">  
+    
+     <br>
+     <br>
+
+      - Cliente > Processo:
+      
+          - Através dessa página é possível visualizar os processos previamente inseridos referentes ao cliente selecionado;
+          - É possível a adição de um novo processo clicando no botão " + " no início da página.
+          
+          <br>
+          
+          <img src="https://user-images.githubusercontent.com/58988379/174417496-c6e690a7-5d57-40cc-b9c3-98ffa53dbe43.png">  
+
+    
+     <br>
+     <br>
+
+      - Cliente > Processo > Inserir Processo:
+      
+          - Através dessa página é possível inserir novos processos referentes ao cliente selecionado;
+          - Já é pré-inserido o nome do funcionário que está adicionando o processo, sendo desabilitada a opção de alteração.
+          
+          <br>
+          
+          <img src="https://user-images.githubusercontent.com/58988379/174417545-63a6a88a-0eb8-4be6-84cb-60d8b2d04dc7.png">  
+
+    
+     <br>
+     <br>
+
+      - Cliente > Restrito:
+      
+          - Através dessa página é possível fazer o cadastro de um "Login" para que o cliente tenha acesso a sua própria área dentro do sistema;
+          - É possível também visualizar e/ou adicionar processos referentes a solicitação de serviço que o cliente tenha feito;
+          - Os processos adicionados nessa página poderão ser visualizados pelo cliente em sua respectiva área definida, que poderá ser acessada pelo "Login" criado através dessa página;
+          - Tanto o cliente quanto o funcionário poderão fazer o download do documento previamente inserido em seu processo na página restrito.
+          
+          <br>
+          
+          <img src="https://user-images.githubusercontent.com/58988379/174417634-6df49aa3-cfa1-4793-ad95-f8eb19d04eb3.png">  
+
+    
+     <br>
+     <br>
+
+      - Cliente > Restrito > Inserir Processo:
+      
+          - Através dessa página é possível inserir novos processos referentes ao cliente selecionado;
+          - Para este formulário basta a inserção da descrição do processo e do documento desejado.
+          
+          <br>
+          
+          <img src="https://user-images.githubusercontent.com/58988379/174417703-e09de2b1-e8d0-43f3-b190-b82c0bcb572b.png">  
 
 
+<br>
+<br>
+
+<h2>Área Restrita do Cliente</h2>
+
+<img src="https://user-images.githubusercontent.com/58988379/174417792-9c2c6b90-5fb0-4c76-b959-45cb9909f3bc.png">
+
+Assim que feito o "login", na tela inicial descrita anteriormente, inserindo as credenciais previamente cadastradas na aba "Restrito", o cliente irá se deparar com a sua área restrita;
+
+Poderá ter acesso aos documentos de processos inseridos previamente na aba "Restrito" bem como fazer o 'download' dos mesmos.
 
 
+<br>
+<br>
 
+<h2>Faturamento</h2>
 
+<img src="https://user-images.githubusercontent.com/58988379/174417996-e426904c-2da8-4aef-ab04-93bc6aabfc10.png">
 
+Através dessa página, o funcionário poderá lançar ordens de faturamento, criando PDF's referentes ao serviço contratado pelo cliente;
 
+A página conta com um sistema de pesquisa, para facilitar a busca por um cliente específico.
 
+<br>
 
+   - Ordem de Faturamento
+      
+      - Através dessa página o usuário (funcionário) poderá gerar um boleto que será enviado para a aba "Financeiro > Ordem de Faturamento" automaticamente;
+      - O usuário (funcionário) deverá inserir os últimos campos indicados, são eles: Serviço Contratado, Forma de Pagamento, Preço, Quantidade de Parcelas e a Descrição.
+
+   <img src="https://user-images.githubusercontent.com/58988379/174418110-5c091483-4191-4edc-b21f-c79732703c5a.png">
+
+<br>
 
 
 
