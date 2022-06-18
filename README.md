@@ -7,7 +7,7 @@ Com este sistema a empresa poderá cadastrar, editar, ler e deletar funcionário
 
 <strong>O layout do sistema foi especificado pela própria empresa.</strong>
 
-Confira uma cópia do sistema <a target="_blank" href="http://vbesdev.000webhostapp.com/">Clicando aqui.</a> Utilize as credenciais abaixo.
+Confira uma cópia funcional do sistema <a target="_blank" href="http://vbesdev.000webhostapp.com/">Clicando aqui.</a> Utilize as credenciais abaixo.
 
 Usuário: github
 
@@ -329,9 +329,107 @@ Será possível adicionar um agendamento através do botão de " + " no início 
 
 <br>
 
+   - Perfil Agendamento | Alterar Status
+      
+      - Após clicar em um agendamento na página principal de agendamento, o usuário será redirecionado ao perfil da agenda, tendo acesso aos dados previamente cadastrados.
+      - Aqui o usuário (funcionário) poderá alterar e/ou excluir os dados previamente cadastrados da agenda selecionada.
+
+   <img src="https://user-images.githubusercontent.com/58988379/174418614-aed3e623-aa16-4d80-8e2f-e54ced96042d.png">
+
+<br>
+
+
+<br>
+<br>
+
+<h2>Classificador</h2>
+
+<img src="https://user-images.githubusercontent.com/58988379/174418689-fc76ab6e-4cd3-4555-a347-433b66aff0d3.png">
+
+Nessa página o usuário poderá pesquisar por palavras chaves que o levarão a textos pré-definidos pela empresa, que o permitirão fazer a seleção e copiar o que for selecionado para que seja introduzido de forma rápida e prática no local desejado.
+
+<p style="color:red;">(Não disponível na versão de cópia funcional citada anteriormente)</p>
+
+
+<br>
+<br>
+
+<h2>Financeiro > Ordem de Faturamento | Área Restrita a usuários marcados com "Financeiro"</h2>
+
+<img src="https://user-images.githubusercontent.com/58988379/174418836-9ec87e0e-44a9-47b8-a954-6b7c4beec7cc.png">
+
+Nessa página o usuário poderá visualizar, marcar como concluído e/ou deletar ordens de faturamento recebidas através do envio pela página "Faturamento" (já citada).
+
+
+<br>
+<br>
+
+<h2>Administração > Funcionários | Área Restrita a usuários marcados com "Administrador"</h2>
+
+<img src="https://user-images.githubusercontent.com/58988379/174418959-336e18aa-d856-47e7-ac55-812ff0c8a4bc.png">
+
+Nessa página o usuário poderá visualizar os usuários já cadastrados no sistema, bem como suas funções;
+
+Poderá fazer a edição dos mesmos bem como deletá-los se desejar;
+
+Poderá adicionar/cadastrar um novo funcionário/usuário no sistema clicando no botão " + " no início da página.
+
+<br>
+
+   - Cadastrar Funcionário
+      
+      - Aqui o usuário (funcionário) poderá cadastrar um novo usuário/funcionário ao sistema, definindo sua função, nome, dentre outros.
+
+   <img src="https://user-images.githubusercontent.com/58988379/174418972-6fe979a5-dfc0-4b6a-bbeb-cc742a0b2fb1.png">
+   <img src="https://user-images.githubusercontent.com/58988379/174419129-d3f41bfe-e3dd-4566-851c-cbc426cc88d9.png">
 
 
 
+<br>
+
+
+<br>
+<br>
+
+<h2>Administração > Clientes | Usuários de Clientes | Área Restrita a usuários marcados com "Administrador"</h2>
+
+<img src="https://user-images.githubusercontent.com/58988379/174419076-52daaeb6-1187-4eea-8882-81ef2c10971c.png">
+
+Nessa página será possível a visualização dos usuários de clientes cadastrados previamente na aba "Cliente > Restrito";
+
+Poderá ser feita a edição e exclusão do mesmo;
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/58988379/174419149-cd8d61de-8852-4a88-b155-ad3fd2a74af4.png">
+
+
+Ao selecionar algum usuário listado, será feito o redirecionamento para a página de "Perfil de Cliente" do cliente selecionado.
+
+
+<br>
+<br>
+
+<h2>Administração > Logs | Área Restrita a usuários marcados com "Administrador"</h2>
+
+<img src="https://user-images.githubusercontent.com/58988379/174419101-5630dcd3-08d6-481d-b3ea-87a6722ea673.png">
+
+Nessa página será possível a visualização dos "Logs" (todos os acontecimentos) do sistema.
+
+
+
+<br>
+
+<br>
+
+<br>
+
+# Miscellaneous
+
+- DESENVOLVIDO POR: Victor Beserra
+- CONTATO VIA WHATSAPP: (61) 9 8364-5211
+- CONTATO VIA E-MAIL: mxd46934@gmail.com
+- FEATURING: AdminLTE
 
 
 
